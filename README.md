@@ -1,7 +1,7 @@
 # Clase-03-10-26
 Conectando con procesador de Texto Google
 >Que encontrara  en  este repositorio?
->* Documento con formato:
+> * Documento con formato:
 >  * Formato de fuente,
 >  * Formato de Parrafos,
 >  * Caratula,
